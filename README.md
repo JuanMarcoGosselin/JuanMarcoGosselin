@@ -14,8 +14,12 @@ My name is Juan Marco, and I am a Software Engineering student. I am interested 
 - Backend development with Django
 - JavaScript for web applications
 
+  ## Languages
+
+![Spanish](https://img.shields.io/badge/Spanish-Native-red?style=for-the-badge)
+![English](https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge)
+
 ## Tech Stack & Tools
-## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
