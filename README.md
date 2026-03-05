@@ -17,7 +17,7 @@ My name is Juan Marco, and I am a Software Engineering student. I am interested 
   ## Languages
 
 ![Spanish](https://img.shields.io/badge/Spanish-Native-red?style=for-the-badge)
-![English](https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge)
+![English](https://img.shields.io/badge/English-B2-blue?style=for-the-badge)
 
 ## Tech Stack & Tools
 
